@@ -1,0 +1,15 @@
+{
+  "name": "test-promise-timeout",
+  "version": "1.0.0",
+  "description": "Test @slack/interactive-messages v2.0.0 promiseTimeout bug",
+  "main": "index.js",
+  "author": "Oleksandr Shchyhol",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@slack/interactive-messages": "2.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
